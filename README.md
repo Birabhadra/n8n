@@ -35,7 +35,7 @@ If you do not have a Nostr private key, you can generate one at [NostrTool.com](
 
 ### Component Workflows
 
-![Screenshot of DVMCP Agent v1.0 Workflow](Screenshots/DVMCP-Agent-v1-0-Workflow.png)
+![Screenshot of DVMCP Agent v1.0 Workflow](screenshots/DVMCP-Agent-v1-0-Workflow.png)
 
 The main workflow is DVMCP Agent Example v1.0.
 
